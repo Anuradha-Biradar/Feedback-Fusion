@@ -6,13 +6,13 @@ A full-stack feedback management platform built with Next.js, TypeScript, Prisma
 
 # Features
 
-User Authentication (Sign In / Sign Up)
-Submit Feedback
-Vote on Feedback
-Feedback Status Tracking
-Roadmap Page
-Admin Dashboard
-Responsive UI
+- User Authentication (Sign In / Sign Up)
+- Submit Feedback
+- Vote on Feedback
+- Feedback Status Tracking
+- Roadmap Page
+- Admin Dashboard
+- Responsive UI
 
 # Tech stack
 
